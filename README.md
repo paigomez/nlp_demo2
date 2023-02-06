@@ -4,8 +4,8 @@ This project demonstrates some simple use cases for spaCy, using the en_core_web
 between different words and phrases, and then discusses the results in comments of the file.
 
 ### How to use:
-* Install language model: `python -m spacy download en_core_web_md`
 * Install dependencies: `pip3 install -r requirements.txt`
+* Install language model: `python -m spacy download en_core_web_md`
 * Run program: `python semantic.py`
 
 ### Credits
