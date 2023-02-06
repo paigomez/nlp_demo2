@@ -79,6 +79,5 @@ for sentence in sentences:
 ####################################
 
 # Running the example.py with the simpler language model does not give the
-# same quality of similarity results and it does not come with word vectors so it
-# can only use context-senitive tensors (the results are based on the tagger, parser
-# and NER)
+# same quality of similarity results as it does not come with word vectors so it
+# can only use context-senitive tensors
